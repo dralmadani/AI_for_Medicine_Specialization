@@ -29,8 +29,8 @@ This repo contains my work for this specialization. The code base, quiz question
       - [Counting labels and weighted loss function](https://github.com/dralmadani/AI_for_Medicine_Specialization/blob/main/AI_for_Medical_Diagnosis/01_week/C1_W1_Lab_2_counting_labels_and_weighted_loss_function.ipynb)
       - [Densenet](https://github.com/dralmadani/AI_for_Medicine_Specialization/blob/main/AI_for_Medical_Diagnosis/01_week/C1_W1_Lab_3_densenet.ipynb)
       - [Patient Overlap - Practice](https://github.com/dralmadani/AI_for_Medicine_Specialization/blob/main/AI_for_Medical_Diagnosis/01_week/C1_W1_Lab_4_patient_overlap_and_data_leakage.ipynb)
-     - Quiz: 
-     -[Quiz](https://github.com/dralmadani/AI_for_Medicine_Specialization/blob/main/AI_for_Medical_Diagnosis/01_week/C1_W1_Quiz1.pdf)
+    - Quiz:
+      - [Quiz] (https://github.com/dralmadani/AI_for_Medicine_Specialization/blob/main/AI_for_Medical_Diagnosis/01_week/C1_W1_Quiz1.pdf)
   - **Week 2**
     - Assignment: 
       - [Evaluation of Diagnostic Models](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%202/C1W2_A1_Evaluation%20of%20Diagnostic%20Models.ipynb)  
