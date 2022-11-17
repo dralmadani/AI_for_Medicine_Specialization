@@ -34,13 +34,17 @@ This repo contains my work for this specialization. The code base, quiz question
   - **Week 2**
     - Assignment: 
       - [Evaluation of Diagnostic Models](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%202/C1W2_A1_Evaluation%20of%20Diagnostic%20Models.ipynb)  
+    - Quiz:
+      - [Quiz](updated)
   - **Week 3**
     - Assignment: 
       - [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%203/C1M3_A1_Brain%20Tumor%20Auto-Segmentation%20for%20Magnetic%20Resonance%20Imaging.ipynb)
     - Labs: 
       - [Explore MRI data](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%203/C1W3_L1_Explore%20MRI%20data.ipynb)
       - [Get a sub section](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%203/C1W3_L2_Get%20a%20sub%20section.ipynb)
-      - [Implement U-Net](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%203/C1W3_L3_Implement%20U-Net.ipynb)    
+      - [Implement U-Net](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Diagnosis/Week%203/C1W3_L3_Implement%20U-Net.ipynb) 
+    - Quiz:
+      - [Quiz](updated)  
 
 ### Course 2: [AI for Medical Prognosis](https://www.coursera.org/learn/ai-for-medical-prognosis)
   
@@ -52,6 +56,8 @@ This repo contains my work for this specialization. The code base, quiz question
       - [Risk Scores, Pandas and Numpy](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%201/C2W1_L2_Risk%20Scores%2C%20Pandas%20and%20Numpy.ipynb)
       - [Combine Features](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%201/C2W1_L3_Combine%20Features.ipynb)    
       - [Concordance index](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%201/C2W1_L4_Concordance%20index.ipynb)      
+    - Quiz:
+      - [Quiz](updated)
   - **Week 2** 
     - Assignment: 
       - [Risk Models Using Machine Learning](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%202/C2W2_A1_Risk%20Models%20Using%20Tree-based%20Models.ipynb)
@@ -59,12 +65,16 @@ This repo contains my work for this specialization. The code base, quiz question
       - [Decision trees](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%202/C2W2_L1L2L3_Decision%20trees%2C%20Missing%20data%20and%20applying%20a%20mask%2C%20Imputation.ipynb)
       - [Missing data and applying a mask](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%202/C2W2_L1L2L3_Decision%20trees%2C%20Missing%20data%20and%20applying%20a%20mask%2C%20Imputation.ipynb)
       - [Imputation](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%202/C2W2_L1L2L3_Decision%20trees%2C%20Missing%20data%20and%20applying%20a%20mask%2C%20Imputation.ipynb)    
+    - Quiz:
+      - [Quiz](updated)
   - **Week 3** 
     - Assignment: 
       - [Non-Parametric Estimators for Survival Analysis](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%203/C2W3_A1_Survival%20Estimates%20that%20Varies%20with%20Time.ipynb)
     - Labs: 
       - [Counting patients](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%203/C2W3_L1L2_Counting%20patients%2C%20Kaplan%20Meier.ipynb)
       - [Kaplan Meier](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%203/C2W3_L1L2_Counting%20patients%2C%20Kaplan%20Meier.ipynb)
+    - Quiz:
+      - [Quiz](updated)
   - **Week 4** 
     - Assignment: 
       - [Cox Proportional Hazards and Random Survival Forests](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%204/C2W4_A1_Cox%20Proportional%20Hazards%20and%20Random%20Survival%20Forests.ipynb)
@@ -72,7 +82,8 @@ This repo contains my work for this specialization. The code base, quiz question
       - [Categorical variables](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%204/C2W3_L1L2L3_Categorical%20variables%2C%20Hazard%20function%2C%20Permissible%20pairs.ipynb)
       - [Hazard function](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%204/C2W3_L1L2L3_Categorical%20variables%2C%20Hazard%20function%2C%20Permissible%20pairs.ipynb)
       - [Permissible pairs](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Prognosis/Week%204/C2W3_L1L2L3_Categorical%20variables%2C%20Hazard%20function%2C%20Permissible%20pairs.ipynb)    
-
+    - Quiz:
+      - [Quiz](updated)
 ### Course 3: [AI For Medical Treatment](https://www.coursera.org/learn/ai-for-medical-treatment)
   - **Week 1** 
     - Assignment: 
@@ -81,13 +92,17 @@ This repo contains my work for this specialization. The code base, quiz question
       - [Pandas operations on Medical Data](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Treatment/Week%201/C3W1_L1_Pandas%20operations%20on%20Medical%20Data.ipynb)
       - [Model Training Tuning Basics with Sklearn](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Treatment/Week%201/C3W1_L2_Model%20Training%20Tuning%20Basics%20with%20Sklearn.ipynb)
       - [Logistic Regression Model Interpretation](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Treatment/Week%201/C3W1_L3_Logistic%20Regression%20Model%20Interpretation.ipynb)    
-  - **Week 2** 
+    - Quiz:
+      - [Quiz](updated)
+- **Week 2** 
     - Assignment: 
       - [Natural Language Entity Extraction](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Treatment/Week%202/C3W2_A1_Natural%20Language%20Entity%20Extraction.ipynb)
     - Labs: 
       - [Cleaning Text](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Treatment/Week%202/C3W2_L1_Cleaning%20Text.ipynb)
       - [BioC format and the NegBio Library](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Treatment/Week%202/C3W2_L2_BioC%20format%20and%20the%20NegBio%20Library.ipynb)
       - [Preparing Input for Text Classification](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Treatment/Week%202/C3W2_L3_Preparing%20Input%20for%20Text%20Classification.ipynb)    
+   - Quiz:
+      - [Quiz](updated)
   - **Week 3** 
     - Assignment: 
       - [ML Interpretation](https://nbviewer.jupyter.org/github.com/dralmadani/AI_for_Medicine_Specialization/blob/master/AI%20for%20Medical%20Treatment/Week%203/C3W3_A1_ML%20Interpretation.ipynb)
